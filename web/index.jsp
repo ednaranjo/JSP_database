@@ -10,7 +10,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/sql" prefix = "sql"%>
 <html>
    <head>
-      <title>SELECT Operation change 4</title>
+      <title>SELECT Operation no more changes</title>
    </head>
  
    <body>
