@@ -10,10 +10,11 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/sql" prefix = "sql"%>
 <html>
    <head>
-      <title>SELECT Operation no more changes</title>
+      <title>SELECT Operation</title>
    </head>
  
    <body>
+       <p>Githb change 7</p>
       <sql:setDataSource var = "snapshot" driver = "com.mysql.jdbc.Driver"
          url = "jdbc:mysql://localhost/TEST"
          user = "root"  password = "root"/>
