@@ -16,6 +16,6 @@
         <hr>
         <h3>Fall 2018 GitHub Example</h3>
         
-        <h4> hi guys this Michael 1234</h4>
+        <h4> hi guys this Michael Fall 2018</h4>
     </body>
 </html>
